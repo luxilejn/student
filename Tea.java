@@ -1,5 +1,5 @@
 public class Tea {
-	// 在家增加的注释
+	// 注释
 	private Integer id;
 	private String teaName;
 
